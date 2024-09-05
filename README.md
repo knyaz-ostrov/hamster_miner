@@ -17,12 +17,15 @@
 ![Alt Text](./docs/open_resource_override.gif)
 ![Alt Text](./docs/add_injected_file.gif)
 * В списке ниже появится безымянный файл - справа от него нажмите 'Edit File'.
+![Alt Text](./docs/edit_injection.gif)
 * В папке с программой откройте любым текстовым редактором файл 'override.js' и скопируйте всё содержимое. 
 * Вставьте в поле редактирования в расширении 'Resource Override' и нажмите 'Save & Close'.
+![Alt Text](./docs/paste_script.gif)
 * Перейдите в веб-версию [телеграма](https://web.telegram.org).
 * Залогиньтесь и откройте 'Hamster Kombat'.
 * Нажмите клавишу 'F12'.
 * В открывшемся окне перейдите во вкладку 'Network'.
+![Alt Text](./docs/get_token.gif)
 * Тапните по хомяку и через несколько секунд в панели 'Network' появится объект 'tap' с полем 'Status' со значением '200'.
 * Нажмите на этот объект и в открывшемся окне во вкладке Headers найдите параметр 'Authorization'.
 *Справа напротив него скопируйте набор латинских букв и цифр после слова 'Bearer'.
