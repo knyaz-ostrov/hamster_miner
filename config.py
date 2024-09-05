@@ -2,7 +2,7 @@
 Модуль для хранения конфигов.
 """
 
-REQUEST_TIMEOUT = 10
+REQUEST_TIMEOUT = 20
 CLICK_TIMEOUT = 60
 TOKEN = ''
 HEADERS = {
