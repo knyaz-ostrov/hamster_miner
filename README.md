@@ -15,6 +15,7 @@
 * Установите расширение 'Resource Override' в [интернет-магазине chrome](https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii).
 * Откройте меню установленного расширения, нажмите 'Add Rule' -> 'Inject File'.
 ![Alt Text](./docs/open_resource_override.gif)
+![Alt Text](./docs/add_injected_file.gif)
 * В списке ниже появится безымянный файл - справа от него нажмите 'Edit File'.
 * В папке с программой откройте любым текстовым редактором файл 'override.js' и скопируйте всё содержимое. 
 * Вставьте в поле редактирования в расширении 'Resource Override' и нажмите 'Save & Close'.
