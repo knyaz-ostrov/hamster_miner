@@ -2,7 +2,8 @@
 Модуль для хранения конфигов.
 """
 
-TIMEOUT = 5
+REQUEST_TIMEOUT = 5
+CLICK_TIMEOUT = 60
 TOKEN = ''
 HEADERS = {
     'Authorization': f'Bearer {TOKEN}'
