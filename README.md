@@ -4,20 +4,21 @@
 # Инструкция по установке и запуску скрипта
 
 ### ШАГ 1: Скачайте и установите Python
-Скачайте и установите Python последней версии с 'https://www.python.org/'.
+Скачайте и установите Python последней версии с [python.org](https://www.python.org/).
 Обязательно отметьте опцию "Add Python to PATH" перед установкой.
 
 ### ШАГ 2: Скачайте программу Hamster Mine
-Скачайте код с Github: 'https://github.com/knyaz-ostrov/hamster_miner/archive/refs/heads/master.zip'.
+Скачайте код с [GitHub](https://github.com/knyaz-ostrov/hamster_miner/archive/refs/heads/master.zip).
 Распакуйте код в удобном для вас месте.
 
 ### ШАГ 3: Узнайте свой токен авторизации Hamster Kombat
-* Установите расширение 'Resource Override' в интернет-магазине chrome: 'https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii'.
+* Установите расширение 'Resource Override' в [интернет-магазине chrome](https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii).
 * Откройте меню установленного расширения, нажмите 'Add Rule' -> 'Inject File'.
+![Alt Text](./docs/open_resource_override.gif)
 * В списке ниже появится безымянный файл - справа от него нажмите 'Edit File'.
 * В папке с программой откройте любым текстовым редактором файл 'override.js' и скопируйте всё содержимое. 
 * Вставьте в поле редактирования в расширении 'Resource Override' и нажмите 'Save & Close'.
-* Перейдите в веб-версию телеграма: 'https://web.telegram.org/'.
+* Перейдите в веб-версию [телеграма](https://web.telegram.org).
 * Залогиньтесь и откройте 'Hamster Kombat'.
 * Нажмите клавишу 'F12'.
 * В открывшемся окне перейдите во вкладку 'Network'.
